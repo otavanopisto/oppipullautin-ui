@@ -1,0 +1,10 @@
+{
+     "name": "oppipullautin-ui",
+     "description": "Application for creating custom material books",
+     "version": "0.0.1",
+     "dependencies": {
+        "express": "",
+        "wkhtmltopdf": "",
+        "elasticsearch": ""
+     }
+}
